@@ -1,5 +1,1 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyzhou-saffron/zyzhou-saffron/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyzhou-saffron/zyzhou-saffron/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zyzhou-saffron/zyzhou-saffron/output/github-contribution-grid-snake.svg">
-</picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Literata&pause=10&color=030A0E&width=435&lines=Just;A+living+creature)](https://git.io/typing-svg)
